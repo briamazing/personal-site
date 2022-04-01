@@ -75,15 +75,3 @@ And maybe it’s telling that the one big famous social club I haven’t critici
 There’s something incredibly familiar about this — I keep a framed photo of myself at age 5 on my own grandmother’s lap on my desk. I look at it every day as I work at my designer-type big tech job, I ground myself in what makes me both royalty and regular. It’s comforting. And maybe it has something to do with why I find myself openly rooting for Ethel’s Club, based 3,000 miles away in Brooklyn, to succeed and grow, while I look on at The Wing, less than a 10 minute walk from my job, with a cocktail of curiosity, guilty longing, and (feigned) indifference about their future.
 
 When writing this piece, it didn’t even occur to me that at the time I began writing it, I had already dipped my toes into a formalized space for women — [Exhale Collective](https://www.exhalecollective.org/), a Black women-led group I stumbled upon at a conference at my alma mater. A group I had only positive things to say about. Being explicitly for and by Black women helped. Being hyperlocal helped — no need to go to San Francisco, which I associated with tech and work and code-switching — instead, they were here doing events in Oakland and Berkeley, my cultural center. Being open and small, with no membership fees or application processes was another plus — and even their events were free or cost just enough to cover food or supplies. Maybe more than anything, it was that where other groups asked you to prove you belonged, Exhale explicitly invited you to come as you were. Exhale wasn’t a club or a guild. It wasn’t a coworking space or an office away from the office, it wasn’t a networking group. It was a collective, and that was all I felt I needed. I was free to be creative there, to make collages and write poetry and be surrounded by art, but the objective wasn’t to optimize or synergize or workshop. It was enough to just breathe.
-
-
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
